@@ -1,5 +1,5 @@
 # 💫 About Me:
-<h1>Hi there 🖐</h1> !<br><h1>I'm Harsh </h1><br>New comer in Coding<br>MERN Developer
+<h3>Hi there! 🖐</h3> <br><h3>I'm Harsh </h3><br>New comer in Coding<br>MERN Developer
 
 
 
