@@ -22,11 +22,11 @@
 ---
 <h1 align="center">Languages and Tools</h1>
 <br/>
-<p align="center" >>
+<p align="center" >
 <img src="https://skillicons.dev/icons?i=c,java,js,ts,python&perline=5" />
 </p>
 <br/>
-<p align="center" style="margin-top:15px;">>
+<p align="center" style="margin-top:15px;">
 <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,redux,tailwind,bootstrap,nodejs,express,babel&perline=10" />
 </p>
 <br/>
@@ -34,7 +34,7 @@
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres&perline=6" />
 </p>
 <br/>
-<p align="center" style="margin-top:15px;">>
+<p align="center" style="margin-top:15px;">
 <img src="https://skillicons.dev/icons?i=git,docker,kubernetes,aws,nginx,postman,figma&perline=9" />
 </p>
 
