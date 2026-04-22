@@ -43,7 +43,7 @@
 <h2 align="center">Connect with me</h2>
 
 <br/>
-<div align="center" style={{"display":"flex"}}>
+<p align="center" style={{"display":"flex"}}>
 
 <a href="www.linkedin.com/in/harsh-vardhan-hv" ><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="48" width="48"  /></a>
 
@@ -53,4 +53,4 @@
 
 <a href="https://www.geeksforgeeks.org/profile/aarshhv"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" height="48" width="48"/></a>
 
-</div>
+</p>
