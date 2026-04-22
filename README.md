@@ -7,7 +7,7 @@
 <h3 align="left" >I'm a student, Aspiring Developer and coderr. Seeking adventure and new things in the world of Tech</h3>
 
 - **🔭I’m currently working on [Hacklynk](https://github.com/Harsh-vardhan09/HackLynk)**
-- **🌱 I’m currently learning *Java, Django, System-design*.**
+- **🌱 I’m currently learning _Java, Django, System-design_.**
 
 ---
 
@@ -20,6 +20,7 @@
 </div>
 
 ---
+
 <h1 align="center">Languages and Tools</h1>
 <br/>
 <p align="center" >
@@ -43,14 +44,17 @@
 <h2 align="center">Connect with me</h2>
 
 <br/>
-<p align="center" style={{"display":"flex"}}>
-
-<a href="www.linkedin.com/in/harsh-vardhan-hv" ><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="48" width="48"  /></a>
-
-<a href="https://codeforces.com/profile/aarsh-var"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" height="48" width="48" /></a>
-
-<a href="https://leetcode.com/u/aarsh-hv/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="48" width="48" /></a>
-
-<a href="https://www.geeksforgeeks.org/profile/aarshhv"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" height="48" width="48"/></a>
-
-</p>
+<div align="center" >
+  <a href="www.linkedin.com/in/harsh-vardhan-hv" >
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="48" width="48"  />
+  </a> &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://codeforces.com/profile/aarsh-var">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" height="48" width="48" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://leetcode.com/u/aarsh-hv/">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="48" width="48" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.geeksforgeeks.org/profile/aarshhv">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" height="48" width="48"/>
+  </a>
+</div>
