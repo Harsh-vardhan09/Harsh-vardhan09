@@ -45,7 +45,7 @@
 <br/>
 <div align="center">
 
-<a href="https://www.linkedin.com/in/aarsh-hv">
+<a href="https://www.linkedin.com/in/aarsh-hv" style={{display:"flex"}}>
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="48" width="48"  />
 </a>
 &nbsp;&nbsp;
