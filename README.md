@@ -9,6 +9,8 @@
 - **🔭I’m currently working on [Hacklynk](https://github.com/Harsh-vardhan09/HackLynk)**
 - **🌱 I’m currently learning _Java, Django, System-design_.**
 
+
+
 ---
 
 <div align="center" ><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Harsh-vardhan09&theme=aura"  alt="harsh-vardhan09" /></div>
@@ -29,14 +31,16 @@
 <br/>
 <p align="center" style="margin-top:15px;">
 <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,redux,tailwind,bootstrap,nodejs,express,babel&perline=10" />
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=rust,npm,materialui,threejs,solidity&perline=10" />
 </p>
 <br/>
 <p align="center" style="margin-top:15px;">
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres&perline=6" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,aws&perline=6" />
 </p>
 <br/>
 <p align="center" style="margin-top:15px;">
-<img src="https://skillicons.dev/icons?i=git,docker,kubernetes,aws,nginx,postman,figma&perline=9" />
+<img src="https://skillicons.dev/icons?i=git,docker,kubernetes,nginx,postman,figma,bash,idea,obsidian&perline=9" />
 </p>
 
 ---
@@ -45,8 +49,16 @@
 
 <br/>
 <p align="center" >
-  <a href="https://www.linkedin.com/in/harsh-vardhan-hv/" target='_blank' ><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="48" width="48"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/harsh-vardhan-hv/" target="_blank" ><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="48" width="48"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://codeforces.com/profile/aarsh-var" target='_blank' ><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" height="48" width="48"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://leetcode.com/u/aarsh-hv/" target='_blank' ><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="48" width="48"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.geeksforgeeks.org/profile/aarshhv" target='_blank' ><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" height="48" width="48"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
+
+<br/>
+
+---
+
+<br/>
+
+ ![Trophy](./profile/trophy.svg)
