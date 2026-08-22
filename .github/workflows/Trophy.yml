@@ -20,7 +20,7 @@ jobs:
         with:
             options: 'username=${{ github.repository_owner }}&theme=onedark'
             path: profile/trophy.svg
-            token: ${{ secrets.PAT }}
+            token: ${{ secrets.TROPHY_TOKEN }}
 
       - name: Commit trophy card
         run: |
